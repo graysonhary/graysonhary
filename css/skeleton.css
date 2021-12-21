@@ -472,6 +472,10 @@ there.
       color: rgb(73, 165, 184);
     }
 
-html, body {
-  overflow-x:hidden;
+    @media only screen and (max-width: 600px) {
+      .cowboy {
+        font-size: 8em;
+        top: 10%;
+        left: 55%;
 }
+    }
