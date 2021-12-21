@@ -471,3 +471,8 @@ there.
     .ducky {
       color: rgb(73, 165, 184);
     }
+
+html, body {
+  overflow-y:hidden;
+  height:100%;
+}
