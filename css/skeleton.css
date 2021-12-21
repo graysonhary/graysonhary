@@ -429,7 +429,7 @@ there.
 
 
 .cowboy {
-  font-size: 10em;
+  font-size: 8em;
   margin: 0;
   position: absolute;
   top: 5%;
@@ -470,12 +470,4 @@ there.
 
     .ducky {
       color: rgb(73, 165, 184);
-    }
-
-    @media only screen and (max-width: 600px) {
-      .cowboy {
-        font-size: 8em;
-        top: 10%;
-        left: 55%;
-      }
     }
