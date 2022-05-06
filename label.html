@@ -32,7 +32,7 @@
     .label {
       width: 2.25in;
       height: 1.25in;
-      margin: 0;
+      margin: 1px;
       position: relative;
       overflow: hidden;
       page-break-after: always;
@@ -57,13 +57,14 @@
 
     h3 {
       display: inline-block;
-      font-size: .6em;
-      font-weight: 700;
+      font-size: .8em;
+      font-weight: 400;
       letter-spacing: .08em;
+      margin-right: 2em;
     }
     h4 {
       display: inline-block;
-      font-size: 1.4em;
+      font-size: .8em;
       font-weight: 700;
       letter-spacing: .08em;
       margin: 0;
@@ -76,24 +77,61 @@
       align-content: center;
     }
 
+    .label-2 {
+      width: 2.25in;
+      height: 1.25in;
+      margin: 1px;
+      position: relative;
+      overflow: hidden;
+      page-break-after: always;
+      font-size: .6em;
+      text-align: left;
+    }
+
+    .label-2 p {
+      margin: 0;
+    }
+
 
 
   </style>
   </head>
 
 <body>
+  <!--
 		<div class="label">
       <h1 class="vendor">Engineered Garments</h1>
       <h2 class="item_name">Combo Short Collar Shirt - Khaki/White Candy Stripe Broadcloth</h2>
-      <div class="two_column">
+
         <div>
-          <h3 class="price">$276</h3>
+          <h3 class="price">$276</h3><h4>XXL</h4>
         </div>
         <div>
-          <h4>XXL</h4>
+
         </div>
       </div>
-    </div>
+
+    -->
+
+      <div class="label-2">
+        <p>Engineered Garments</p>
+        <p>Combo Short Collar Shirt - Khaki/White Candy Stripe Broadcloth</p>
+        <p>$276</p>
+        <p>XXL</p>
+      </div>
+      <div class="label-2">
+        <p>Engineered Garments</p>
+        <p>Combo Short Collar Shirt - Khaki/White Candy Stripe Broadcloth</p>
+        <p>$276</p>
+        <p>XXL</p>
+      </div>
+      <div class="label-2">
+        <p>Engineered Garments</p>
+        <p>Combo Short Collar Shirt - Khaki/White Candy Stripe Broadcloth</p>
+        <p>$276</p>
+        <p>XXL</p>
+      </div>
+
   </body>
 
 </html>
