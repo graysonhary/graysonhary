@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on permission trip</title>
-    <link>https://example.org/categories/</link>
+    <link>https://graysonhary.com/categories/</link>
     <description>Recent content in Categories on permission trip</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Dec 2023 21:02:51 -0600</lastBuildDate>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://graysonhary.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>default</title>
-      <link>https://example.org/categories/default/</link>
+      <link>https://graysonhary.com/categories/default/</link>
       <pubDate>Sat, 30 Dec 2023 21:02:51 -0600</pubDate>
-      <guid>https://example.org/categories/default/</guid>
+      <guid>https://graysonhary.com/categories/default/</guid>
       <description></description>
     </item>
     <item>
       <title>general</title>
-      <link>https://example.org/categories/general/</link>
+      <link>https://graysonhary.com/categories/general/</link>
       <pubDate>Fri, 08 Dec 2023 23:08:30 -0600</pubDate>
-      <guid>https://example.org/categories/general/</guid>
+      <guid>https://graysonhary.com/categories/general/</guid>
       <description></description>
     </item>
   </channel>
